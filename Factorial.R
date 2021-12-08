@@ -12,5 +12,5 @@
       factorial = factorial * i;
     }
   }
-  print(paste("factorial of "))
+  print(paste("factorial of ", x, " is ", factorial))
 }
